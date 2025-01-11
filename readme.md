@@ -44,6 +44,8 @@
 ------------
 
 If you choose to skip school, the game will end with a message indicating that the character died uneducated.
+
+
 Installation
 --------------
 
